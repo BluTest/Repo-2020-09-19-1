@@ -2,3 +2,6 @@ This file contains the password and the GUID
 
 
 GUID-57 = "234ih208w9eh" 
+
+
+password = "P@ss9382uhi3b" 
