@@ -5,6 +5,5 @@ Private at the time of creation.
 
 
 # empty commit
-password = 'SOIh891y34971tp^'   # BluBracketIgnore
 
 # empty commit
